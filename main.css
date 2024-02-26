@@ -18,6 +18,17 @@ header{
     padding-right: 100px;   
 }
 
+.footer{
+    background-color: black;
+    width: 100%;
+    color: white;
+    left: 0;
+    bottom: 0;
+    padding: 1%;
+    margin-bottom: 0;
+    text-align: center;
+}
+
 article{
     border: 1px solid black;
     padding: 1%;
