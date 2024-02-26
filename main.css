@@ -36,6 +36,11 @@ article{
     margin-left: 0;
 }
 
+.imgsize{
+    width: 600px;
+    height: 400px;
+}
+
 article img{
     width: 600px;
     height: 400px;
