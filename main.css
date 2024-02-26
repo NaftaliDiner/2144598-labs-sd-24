@@ -1,0 +1,41 @@
+.navBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navBar h1, .navBar nav a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+header{
+    background-color: black;
+    color: whitesmoke; 
+    padding-left: 100px;
+    padding-right: 100px;   
+}
+
+article{
+    border: 1px solid black;
+    padding: 1%;
+    margin-top: 10px;
+    margin-left: 0;
+}
+
+article img{
+    width: 600px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+#second{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0px;
+    margin: 0px;
+    padding: 0px;
+}
